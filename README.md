@@ -4,7 +4,7 @@
 
 - I founded [Resumake][4], a Flutter app for making a resume with AI and finding jobs.
 - I have a BS in Computer Science from BYU-Idaho.
-- I lead a software upgrade using Spring Boot and React for [The Structures Group Inc.][1]
+- I led a software upgrade using Spring Boot and React for [The Structures Group Inc.][1]
 
 #### Get In Touch
 
